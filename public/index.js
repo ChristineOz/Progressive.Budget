@@ -1,6 +1,7 @@
 let transactions = [];
 let myChart;
 
+// fetch from GET route (all transactions by most recent)
 fetch("/api/transaction")
   .then(response => {
     return response.json();
