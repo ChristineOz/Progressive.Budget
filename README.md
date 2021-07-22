@@ -11,6 +11,10 @@
 8. [Questions](#questions)
 ## Project Description
 * The purpose of this assignment is to create a progressive budget application that allows users to manage financial activity while online or offline.
+
+<img width="1330" alt="Screen Shot 2021-07-21 at 11 29 43 PM" src="https://user-images.githubusercontent.com/77952267/126586518-632dff05-43e9-462c-98db-84b0f0a2b6b9.png">
+
+Walk through DEMO: 
 ## Installation Instructions
 * In order to success launch this web application, you will need to have the following installed in your local working environment:
     Node.js
