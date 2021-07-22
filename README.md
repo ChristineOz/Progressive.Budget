@@ -14,7 +14,9 @@
 
 <img width="1330" alt="Screen Shot 2021-07-21 at 11 29 43 PM" src="https://user-images.githubusercontent.com/77952267/126586518-632dff05-43e9-462c-98db-84b0f0a2b6b9.png">
 
-Walk through DEMO: 
+<br> Heroku Deployed: https://budgetco.herokuapp.com/
+
+
 ## Installation Instructions
 * In order to success launch this web application, you will need to have the following installed in your local working environment:
     Node.js
@@ -31,3 +33,5 @@ Walk through DEMO:
 ## Questions
 * For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
 * Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
+
+
